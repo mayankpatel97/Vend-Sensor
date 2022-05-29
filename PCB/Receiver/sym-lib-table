@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name MATE_Molex)(type Legacy)(uri ${KIPRJMOD}/MATE_Molex.lib)(options "")(descr ""))
+)
